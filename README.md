@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Narendar kumar
-- 👀 I’m interested in web D,blockchain,DSA 
+- 👀 I’m interested in Web3,blockchain,DSA,Web D 
 - 🌱 I’m currently learning CS Engineering
 - 📫 How to reach me-narendarsubhanje@gmail
 
